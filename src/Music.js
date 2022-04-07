@@ -1,7 +1,11 @@
 import React from 'react'
+import Navbar from './components/navbar'
 
 export default function Music() {
   return (
-    <div>Music</div>
+    <div>
+        <Navbar />
+        Music
+    </div>
   )
 }
