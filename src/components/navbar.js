@@ -11,6 +11,9 @@ export default function () {
             <Link to="/music">Music</Link>
         </a>
         <a>
+            <Link to="/projects">Projects</Link>
+        </a>
+        <a>
             <Link to="/gallery">Gallery</Link>
         </a>
         <a>
