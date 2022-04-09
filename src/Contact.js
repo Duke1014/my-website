@@ -6,19 +6,22 @@ export default function Contact() {
     <div>
         <Navbar />
         <div>
-          Facebook
+          <a href = "github.com/duke1014">Github</a>
         </div>
         <div>
-          Instagram
+          <a href = "linkedin.com/in/brett-duke-norsworthy">LinkedIn</a>
         </div>
         <div>
-          Twitter
+          <a href = "twitter.com/duke_1014">Twitter</a>
         </div>
         <div>
-          Twitch
+          <a href = "instagram.com/duke_n1014">Instagram</a>
         </div>
         <div>
-        <a href = "mailto: duke.norsworthy@gmail.com">Email</a>
+          <a href = "twitch.tv/duke1014">Twitch</a>
+        </div>
+        <div>
+          <a href = "mailto: duke.norsworthy@gmail.com">Email</a>
         </div>
     </div>
   )
