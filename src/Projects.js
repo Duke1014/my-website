@@ -5,10 +5,9 @@ export default function Projects() {
   return (
     <div>
         <Navbar />
-        To-do List: (link here)
-        Soundboard (link here)
-        Musician/Instrument List (Link here)
-
+        <a href="https://to-do-list-capstone.herokuapp.com/">To-Do List</a>
+        <br/>
+        <a href="https://rails-project-soundboard.herokuapp.com/">Soundboard</a>
     </div>
   )
 }
